@@ -1,4 +1,7 @@
 # 🏗️ Project Swaraj – AI Site Progress Assistant
+<p align="center">
+  <img src="images/Banner.png" alt="Project Swaraj Banner" width="100%">
+</p>
 
 An AI-powered construction site reporting system built using **Google Gemini** and **Python**.
 

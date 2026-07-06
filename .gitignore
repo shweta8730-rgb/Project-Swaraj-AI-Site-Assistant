@@ -1,0 +1,21 @@
+# Virtual Environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Google credentials
+credentials.json
+
+# ADK session data
+siteops/.adk/
+
+# IDE settings
+.idea/
+
+# macOS
+.DS_Store
